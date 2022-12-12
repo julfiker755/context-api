@@ -1,0 +1,9 @@
+1.Module Overview, node recap, mongodb vs MySql
+2.Create mongodb atlas account and Connect to database
+3.Send data to database using mongodb insertOne
+4.(Recap) Async await, try catch and mongodb connection
+5.Send user data to the server and get response to client
+7.Save data from React Client side to mongo database
+8.Load and display data from database, create delete button(databese delete obj+display user delete)
+9.Delete a user from the database for client side,update user
+10.(bonus) Load single item by id and Update user info
